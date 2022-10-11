@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <br>
   Drupal Project Starter Kit (DPSK)
