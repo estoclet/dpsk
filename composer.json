@@ -27,7 +27,11 @@
     "require-dev": {
         "drupal/core-dev": "^9",
         "drupal/drupal-extension": "^4.1.0",
-        "palantirnet/the-build": "^4@alpha"
+        "mglaman/phpstan-drupal": "^1.1",
+        "palantirnet/the-build": "^4@alpha",
+        "phpstan/extension-installer": "^1.1",
+        "phpstan/phpstan": "^1.8",
+        "phpstan/phpstan-deprecation-rules": "^1.0"
     },
     "suggest": {
         "cweagans/composer-patches": "Try ^1.7. Apply patches to packages, especially Drupal.org contrib.",
