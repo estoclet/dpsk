@@ -5,16 +5,16 @@
 # url is 'dpsk.ddev.site'.
 name: dpsk
 
-# TODO: If the project uses Acquia hosting, use these settings.
-docroot: docroot
-mysql_version: "5.7"
-webserver_type: apache-fpm
-
 # TODO: If the project uses Pantheon or Platform.sh hosting, remove the Acquia settings
 # and use these settings instead.
-#docroot: web
-#webserver_type: nginx-fpm
-#mariadb_version: "10.3"
+docroot: web
+webserver_type: nginx-fpm
+mariadb_version: "10.3"
+
+# TODO: If the project uses Acquia hosting, use these settings.
+# docroot: docroot
+# mysql_version: "5.7"
+# webserver_type: apache-fpm
 
 # TODO: Make sure this PHP version matches the project's hosting environment.
 php_version: "8.1"

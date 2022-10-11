@@ -45,7 +45,7 @@
     "conflict": {
         "drupal/drupal": "*"
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "config": {
         "allow-plugins": {
@@ -55,7 +55,7 @@
             "dealerdirect/phpcodesniffer-composer-installer": true
         },
         "platform": {
-            "php": "7.4"
+            "php": "8.1"
         },
         "preferred-install": {
             "*": "dist"
@@ -65,7 +65,7 @@
     "extra": {
         "drupal-scaffold": {
             "locations": {
-                "web-root": "docroot/"
+                "web-root": "web/"
             },
             "allowed-packages": [
                 "drupal/core"

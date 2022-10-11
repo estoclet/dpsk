@@ -1,4 +1,4 @@
-User story: [ABC-XX: Story name](https://palantir.atlassian.net/browse/ABC-XX)
+User story: [ABC-XX: Story name](https://dpsk.atlassian.net/browse/ABC-XX)
 
 ### Description
 
